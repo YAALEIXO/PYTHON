@@ -1,8 +1,8 @@
 import pandas as pd
 #-----------------------
-importNome = []
+
 Time = []
-jogador = []
+
 
 print('Bom dia', )
 Nome = input('Qual é seu nome por favor?   ')
